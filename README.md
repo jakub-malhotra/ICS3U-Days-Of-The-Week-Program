@@ -1,1 +1,2 @@
-# ICS3U-Days-Of-The-Week-Program
+# ICS3U-Space-Aliens
+The space aliens game on the Adafruit PyBadge
